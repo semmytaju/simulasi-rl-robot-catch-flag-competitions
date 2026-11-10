@@ -1,4 +1,4 @@
-# 🤖🚩 RoboFlag AI — Simulasi Kompetisi RL Robot Catch the Flag (DQN)
+# 🤖 Simulasi Kompetisi RL Robot Catch the Flag (DQN)
 
 ![PHP 8+](https://img.shields.io/badge/PHP-8.0%2B-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Database-MySQL%20(db__robot__agent)-4479A1?logo=mysql&logoColor=white)
